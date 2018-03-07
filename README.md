@@ -1,9 +1,11 @@
 # Pug G
 
-__**Current progress**__:  
+##Current progress:  
 
 
-__**Goals for 3/8**__:  
+
+##Goals for 3/8:  
+
 	*player movement, jumping, physics
 	*camera tracking
 	*player sprites for movement & jumping
@@ -14,7 +16,7 @@ __**Goals for 3/8**__:
 *() means optional goal, may become mandatory for next meeting*
 
 
-__**Bugs**__:  
+##Bugs:  
 
 ***A***
 
@@ -23,6 +25,7 @@ __**Bugs**__:
 ***C***
 
 *About bug ranks:*  
+
 	*A rank: Causes the game to become completely unplayable*
 	*B rank: Negatively affects gameplay*
 	*C rank: Visual error, doesn't affect gameplay at all*
