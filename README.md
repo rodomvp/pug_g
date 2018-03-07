@@ -1,10 +1,10 @@
 # Pug G
 
-##Current progress:  
+**Current progress:  **
 
 
 
-##Goals for 3/8:  
+**Goals for 3/8:  **
 
 	*player movement, jumping, physics
 	*camera tracking
@@ -16,7 +16,7 @@
 *() means optional goal, may become mandatory for next meeting*
 
 
-##Bugs:  
+**Bugs:  **
 
 ***A***
 
