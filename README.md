@@ -2,14 +2,13 @@
 
 ## Completed goals
 
-...
+- camera tracking
 
 ## Goals for 3/15
 ***Programming***
 
 *Save the daytime bit for later. For now, focus on the dream level.*
 - player movement, jumping, physics
-- camera tracking
 - player sprites for movement & jumping
 - food & score increasing
 - generic enemy AI (follow player if nearby, hurt player)
